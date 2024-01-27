@@ -1,5 +1,5 @@
-Machine learning topics
+Machine learning topics :
 
-**Simple Linear Regression**
+****Simple Linear Regression****
  
 
